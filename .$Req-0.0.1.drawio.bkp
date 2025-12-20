@@ -1,0 +1,132 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="l4gUbImujkuiD-skPGD-">
+    <mxGraphModel dx="2954" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-1" target="yjDCBCo8S11b9juVB_Ro-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-2" target="yjDCBCo8S11b9juVB_Ro-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-2" value="Input user command and paramiters&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="790" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-4" target="yjDCBCo8S11b9juVB_Ro-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjDCBCo8S11b9juVB_Ro-8">
+          <mxGeometry x="-0.2057" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-4" target="yjDCBCo8S11b9juVB_Ro-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="1140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjDCBCo8S11b9juVB_Ro-12">
+          <mxGeometry x="0.0436" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-4" value="Check If input command it valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="960" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-7" value="Output error. Command is invalid" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="985" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-11" target="yjDCBCo8S11b9juVB_Ro-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjDCBCo8S11b9juVB_Ro-17">
+          <mxGeometry x="-0.2375" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-11" target="yjDCBCo8S11b9juVB_Ro-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-11" value="Check If paramiters are valid for command" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="1180" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-16" target="yjDCBCo8S11b9juVB_Ro-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-16" value="Output error. Paramiter is invalid" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1190" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-22" target="yjDCBCo8S11b9juVB_Ro-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-32" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjDCBCo8S11b9juVB_Ro-25">
+          <mxGeometry x="-0.0438" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-22" target="yjDCBCo8S11b9juVB_Ro-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-22" value="&lt;code&gt;check for /tmp/file-explore folder exist&lt;/code&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1397.5" y="1390" width="245" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-24" target="yjDCBCo8S11b9juVB_Ro-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-24" value="Create /tmp/file-explore folder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1435" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-26" target="yjDCBCo8S11b9juVB_Ro-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-26" value="Create&amp;nbsp;&lt;code&gt;currentPath.conf file in file-explore folder&lt;/code&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1842.5" y="1575" width="277.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-28" target="yjDCBCo8S11b9juVB_Ro-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-28" value="Read path from&amp;nbsp;&lt;code&gt;/tmp/file-explore/currentPath.conf&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1880" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-30" target="yjDCBCo8S11b9juVB_Ro-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-30" value="Add user&#39;s home folder as path" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1875.63" y="1680" width="211.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-37" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="1970" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;END&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-7" target="yjDCBCo8S11b9juVB_Ro-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-45" target="yjDCBCo8S11b9juVB_Ro-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-48" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjDCBCo8S11b9juVB_Ro-47">
+          <mxGeometry x="-0.1846" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjDCBCo8S11b9juVB_Ro-45" target="yjDCBCo8S11b9juVB_Ro-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-52" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjDCBCo8S11b9juVB_Ro-51">
+          <mxGeometry x="-0.6178" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjDCBCo8S11b9juVB_Ro-45" value="&lt;code&gt;Check if currentPath.conf dose exist&lt;/code&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1590" width="245" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
